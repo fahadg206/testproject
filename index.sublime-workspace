@@ -1,0 +1,411 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"navbar",
+				"navbar-nav"
+			],
+			[
+				"padding",
+				"padding-right"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"flex",
+				"flex-end"
+			],
+			[
+				"navbar-",
+				"navbar-nav"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"border",
+				"border-width"
+			],
+			[
+				"margin",
+				"margin"
+			],
+			[
+				"firs",
+				"firsttitle"
+			],
+			[
+				"space",
+				"space-around"
+			],
+			[
+				"seco",
+				"secondcontent"
+			],
+			[
+				"fir",
+				"firstcontent"
+			],
+			[
+				"marg",
+				"margin-left"
+			],
+			[
+				"obj",
+				"object-position"
+			],
+			[
+				"intr",
+				"intro-image"
+			],
+			[
+				"fon",
+				"font-weight"
+			],
+			[
+				"max",
+				"max-height"
+			],
+			[
+				"sp",
+				"space-evenly"
+			],
+			[
+				"light",
+				"lightgrey"
+			],
+			[
+				"spac",
+				"space-around"
+			],
+			[
+				"margi",
+				"margin-right"
+			],
+			[
+				"sec",
+				"second"
+			],
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"col",
+				"column-reverse"
+			],
+			[
+				"fle",
+				"flex-direction"
+			],
+			[
+				"alig",
+				"align-self"
+			],
+			[
+				"mar",
+				"margin-right"
+			],
+			[
+				"inlin",
+				"inline-block"
+			],
+			[
+				"height",
+				"max-height"
+			],
+			[
+				"align",
+				"align-items"
+			],
+			[
+				"padd",
+				"padding-left"
+			],
+			[
+				"paddin",
+				"padding-top"
+			],
+			[
+				"inli",
+				"inline-block"
+			],
+			[
+				"list",
+				"list-style-type"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/C/Users/fahad/OneDrive/Desktop/project 2/index.html",
+			"settings":
+			{
+				"buffer_size": 5248,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/fahad/OneDrive/Desktop/project 2/style.css",
+			"settings":
+			{
+				"buffer_size": 873,
+				"line_ending": "Windows"
+			},
+			"undo_stack":
+			[
+			]
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/fahad/OneDrive/Desktop/project 2/style.css",
+		"/C/Users/fahad/OneDrive/Desktop/project 2/index.html",
+		"/C/Users/fahad/OneDrive/Desktop/Real Project 1/index.sublime-workspace",
+		"/C/Users/fahad/OneDrive/Desktop/Project 2/index.html",
+		"/C/Users/fahad/OneDrive/Desktop/Real Project 1/index.html",
+		"/C/Users/fahad/OneDrive/Desktop/Real Project 1/style.css",
+		"/C/Users/fahad/OneDrive/Desktop/Real Project 1/images/img6.jpg",
+		"/C/Users/fahad/OneDrive/Desktop/New folder/style.css",
+		"/C/Users/fahad/OneDrive/Desktop/New folder/index.sublime-workspace",
+		"/C/Users/fahad/OneDrive/Desktop/New folder/index.html"
+	],
+	"find":
+	{
+		"height": 28.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/C/Users/fahad/OneDrive/Desktop/project 2/index.html",
+					"selected": true,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5248,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4338,
+								4338
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1824.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"stack_multiselect": false,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"sheets":
+			[
+				{
+					"buffer": 1,
+					"file": "/C/Users/fahad/OneDrive/Desktop/project 2/style.css",
+					"selected": true,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 873,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								673,
+								873
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 855.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"stack_multiselect": false,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 40.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.5,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 1,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
